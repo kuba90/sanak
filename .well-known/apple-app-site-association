@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8AS7R6RDF2.com.example.sanack.charba",
+        "paths": [ "/animalDetails/*" ]
+      }
+    ]
+  }
+}
